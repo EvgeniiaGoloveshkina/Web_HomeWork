@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Aylafs';
+	src: url('../fonts/aylafs.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/aylafs.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/aylafs.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/aylafs.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/aylafs.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/aylafs.svg#aylafs') format('svg'); /* Chrome < 4, Legacy iOS */
+}

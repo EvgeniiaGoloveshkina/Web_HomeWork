@@ -1,0 +1,45 @@
+html {
+background-color: aquamarine ;
+}
+
+h1 {
+    font-family: 'MarbeliaEvolutions', sans-serif;
+    color: red; 
+}
+
+h2 {
+    font-family: 'Aylafs', sans-serif;
+    color: blue;
+}
+
+h3 {
+    color: blueviolet;
+    font-size: 22px;
+}
+
+.bigtext {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+@font-face {
+	font-family: 'Aylafs';
+	src: url('fonts/aylafs.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/aylafs.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/aylafs.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/aylafs.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/aylafs.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/aylafs.svg#aylafs') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+@font-face {
+	font-family: 'MarbeliaEvolutions';
+	src: url('fonts/marbeliaevolutions.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/marbeliaevolutions.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/marbeliaevolutions.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/marbeliaevolutions.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/marbeliaevolutions.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/marbeliaevolutions.svg#marbeliaevolutions') format('svg'); /* Chrome < 4, Legacy iOS */
+}

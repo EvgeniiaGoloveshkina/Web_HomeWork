@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'MarbeliaEvolutions';
+	src: url('../fonts/marbeliaevolutions.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/marbeliaevolutions.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/marbeliaevolutions.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/marbeliaevolutions.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/marbeliaevolutions.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/marbeliaevolutions.svg#marbeliaevolutions') format('svg'); /* Chrome < 4, Legacy iOS */
+}
